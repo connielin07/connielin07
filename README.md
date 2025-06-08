@@ -1,4 +1,4 @@
-# 👋 Hi，我是 Connie！
+# 👋 Hi，我是 YITING LIN！
 
 🎓 輔仁大學 醫學資訊與創新應用學士學位學程 大一學生  
 💻 近期學習 Java Web、Python、資訊安全、AI、前端開發與爬蟲領域
