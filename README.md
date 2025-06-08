@@ -51,9 +51,9 @@
 | [貪食蛇遊戲](reports/程式設計(二)_貪食蛇遊戲.pdf) | 經典遊戲玩法，加入創新道具提升挑戰性 | Java |
 | [LeetCode 自主學習心得](reports/計概_LeetCode自主學習.pdf) | 從 6 題 LeetCode 中反思邏輯與效能優化策略 | Java、演算法、ChatGPT 輔助 |
 | [社交工程探索](reports/資安導論_社交工程探討.pdf) | 利用 NotebookLM 探討社交工程攻擊模型 | AI 工具應用 |
-| [Google / Facebook 詐騙案研究](reports/資安導論_Google與Facebook詐騙案分析.pdf) | 世界最大科技詐騙案剖析，探討釣魚與社交操作技術 | 資安知識整合 |
-| [Linux 封包分析](reports/資安導論_Linux與Wireshark封包分析.pdf) | 學習 Linux 指令，並以 Wireshark 擷取與分析網路封包 | Linux、Wireshark |
-| [COVID-19 全球傳播監控分析](reports/醫概_COVID-19全球傳播監控之實例分析.pdf) | 剖析 BlueDot 案例與 AI/IoT 防疫應用 | AI、NLP、大數據、SEIR 模型 |
+| [Google / Facebook 詐騙案研究](reports/資安導論_Google%20與%20Facebook%20詐騙案分析.pdf) | 世界最大科技詐騙案剖析，探討釣魚與社交操作技術 | 資安知識整合 |
+| [Linux 封包分析](reports/資安導論_Linux%20與%20Wireshark%20封包分析.pdf) | 學習 Linux 指令，並以 Wireshark 擷取與分析網路封包 | Linux、Wireshark |
+| [COVID-19 全球傳播監控分析](reports/醫概_COVID-19%20全球傳播監控之實例分析.pdf) | 剖析 BlueDot 案例與 AI/IoT 防疫應用 | AI、NLP、大數據、SEIR 模型 |
 | [醫療資訊服務標準研究](reports/醫標_醫療資訊服務標準分組報告.pdf) | 探討 ICD、HL7、LOINC、DICOM 等標準在 EMR、PACS 等系統的應用 | 醫療標準、資訊系統 |
 | [HL7 XML 應用分析](reports/醫標_HL7：XML應用分組報告.pdf) | 分析 HL7 V3 與 CDA 的結構，並展示 XML 標準應用實例 | HL7、XML、CDA |
 | [健康檢查資訊之 FHIR 應用](reports/醫標_FHIR分組報告.pdf) | 建構病人與就診資料的 FHIR JSON/XML 模型，模擬資料交換流程 | FHIR、JSON、XML |
