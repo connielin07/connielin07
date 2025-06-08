@@ -32,7 +32,7 @@
 - 功能：表單輸入 → 資料驗證 → 寫入資料庫
 - 學習重點：MVC 結構設計、資料傳遞、例外處理
 
-### 📁 [查詢課程評價系統](reports/資安導論_查詢課程評價系統.pdf)
+### 📁 [查詢課程評價系統](https://github.com/connielin07/year-1/blob/main/reports/%E8%B3%87%E5%AE%89%E5%B0%8E%E8%AB%96_%E6%9F%A5%E8%A9%A2%E8%AA%B2%E7%A8%8B%E8%A9%95%E5%83%B9%E7%B3%BB%E7%B5%B1.pdf)
 > 整合 Python + API 技術自動化查詢 Classin 上的課程推薦討論。
 
 - 技術：Python、Selenium、OpenAPI、Dify、網頁資料解析
