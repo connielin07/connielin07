@@ -1,7 +1,9 @@
 # YiTing Lin
 
 Sophomore student in Medical Informatics and Innovative Applications at Fu Jen Catholic University.  
-Currently studying healthcare information systems, web technologies, mobile app development, statistics, algorithms, artificial intelligence, and Oracle database systems.
+
+My recent work focuses on healthcare information systems, database-backed web applications, Android development, and beginner AI practice.
+I use course projects to build practical systems such as patient data management, future-mail mobile apps, Gmail receipt automation, and public-data-based interactive web games.
 
 ## Technical Interests
 
@@ -14,20 +16,13 @@ Currently studying healthcare information systems, web technologies, mobile app 
 
 ## Featured Projects
 
-### [Patient Information Management System](https://github.com/connielin07/patient-info-management)
-ASP.NET MVC and SQL Server-based healthcare data management system for patient records, search, filtering, and pagination.
-
-### [FutureMe Mail App](https://github.com/connielin07/future-me-mail-app)
-Kotlin Android app with Node.js backend, MySQL / MariaDB database, Firebase Cloud Messaging, and scheduled future mail workflow.
-
-### [Uber Eats Receipt Parser](https://github.com/connielin07/gas-uber-eats-parser)
-Google Apps Script automation project that parses receipt emails from Gmail and syncs structured expense data to Google Sheets.
-
-### [Education Statistics Board Game](https://github.com/connielin07/education-statistics-boardgame)
-Interactive JavaScript web game using public education statistics and probability-based event rules.
-
-### [Deep Learning Basics](https://github.com/connielin07/deep-learning-basics)
-Introductory AI notebooks covering perceptron logic gates, MLP prediction, and CNN fundamentals.
+| Project | Role | Tech Stack | Highlight |
+|---|---|---|---|
+| [FutureMe Mail App](https://github.com/connielin07/future-me-mail-app) | Android UI / team collaboration / app workflow integration | Kotlin, Android Studio, Node.js, MariaDB, Firebase FCM | A future-mail mobile app that combines Android UI, backend API, database storage, push notifications, and email workflow. |
+| [Patient Info Management](https://github.com/connielin07/patient-info-management) | Web application and database practice | ASP.NET MVC, C#, SQL Server, HTML/CSS | A healthcare information management prototype with patient search, filtering, paging, and database-backed CRUD-style workflows. |
+| [GAS Uber Eats Parser](https://github.com/connielin07/gas-uber-eats-parser) | Automation script developer | Google Apps Script, Gmail, Google Sheets, HTML parsing | An automation project that parses Uber Eats receipt emails and syncs expense data into Google Sheets for spending analysis. |
+| [Education Statistics Board Game](https://github.com/connielin07/education-statistics-boardgame) | Data-to-game designer / frontend developer | JavaScript, HTML, CSS, Public Education Data | An interactive web-based board game that transforms public education statistics into gameplay rules and probability-based events. |
+| [Deep Learning Basics](https://github.com/connielin07/deep-learning-basics) | AI learning project maintainer | Python, Jupyter Notebook, NumPy, Machine Learning | A learning-oriented repository documenting basic neural network concepts such as perceptron, MLP, CNN, and beginner model training practice. |
 
 ## Coursework Mapping
 
