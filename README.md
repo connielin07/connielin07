@@ -7,12 +7,12 @@ I use course projects to build practical systems such as patient data management
 
 ## Technical Interests
 
-- Healthcare Information Systems: patient data management, EMR-related concepts
-- Web Development: Google Apps Script, HTML, JavaScript, API-based automation
-- Mobile Development: Kotlin Android, Firebase, Retrofit
-- Data & Statistics: public data analysis, spreadsheet-based statistics, probability-based rules
-- AI Basics: perceptron, MLP, CNN, model training workflow
-- Database: SQL Server, MySQL / MariaDB, Oracle 19c SQL practice
+- **Healthcare Information Systems:** patient data management, EMR-related concepts
+- **Web Development:** Google Apps Script, HTML, JavaScript, API-based automation
+- **Mobile Development:** Kotlin Android, Firebase, Retrofit
+- **Data & Statistics:** public data analysis, spreadsheet-based statistics, probability-based rules
+- **AI Basics:** perceptron, MLP, CNN, model training workflow
+- **Database:** SQL Server, MySQL / MariaDB, Oracle 19c SQL practice
 
 ## Featured Projects
 
