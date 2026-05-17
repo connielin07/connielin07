@@ -1,4 +1,4 @@
-# Connie Lin
+# YiTing Lin
 
 Sophomore student in Medical Informatics and Innovative Applications at Fu Jen Catholic University.  
 Currently studying healthcare information systems, web technologies, mobile app development, statistics, algorithms, artificial intelligence, and Oracle database systems.
